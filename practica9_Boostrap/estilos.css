@@ -1,0 +1,35 @@
+.contenedor{
+    background-color: chocolate;
+}
+
+.bg-red{
+    background-color: rgb(192, 99, 99);
+}
+.bg-blue{
+    background-color: rgb(104, 103, 185);
+}
+.bg-green{
+    background-color: rgb(109, 202, 116);
+}
+.bg-coral{
+    background-color: coral;
+}
+.bg-gray{
+    background-color: rgb(76, 66, 85)
+}
+.carousel-item {
+    max-height: 300px;
+    max-width: 600px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.login-box {
+    background: rgba(2, 47, 194, 0.726);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+}
